@@ -1,0 +1,546 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rates Table View should render rates list 1`] = `
+<body>
+  <div>
+    <div
+      class="MuiContainer-root makeStyles-root-1 MuiContainer-maxWidthMd"
+    >
+      <p
+        class="MuiFormHelperText-root makeStyles-center-3"
+      >
+        Last Update: 
+        19:00:00 GMT-0500 (Eastern Standard Time)
+      </p>
+      <table
+        aria-label="simple table"
+        class="MuiTable-root makeStyles-table-2"
+      >
+        <thead
+          class="MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head"
+              scope="col"
+            >
+              Currency
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+              scope="col"
+            >
+              Rate
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              <b>
+                EUR
+              </b>
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              <b>
+                1
+              </b>
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              CAD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.4561
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              HKD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              8.6372
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              ISK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              137.7
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              PHP
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              55.809
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              DKK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              7.4727
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              HUF
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              333.37
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              CZK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              25.486
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              AUD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.6065
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              RON
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              4.7638
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              SEK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              10.7025
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              IDR
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              15463.05
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              INR
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              78.652
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              BRL
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              4.5583
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              RUB
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              70.4653
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              HRK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              7.4345
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              JPY
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              120.72
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              THB
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              33.527
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              CHF
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.0991
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              SGD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.5002
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              PLN
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              4.261
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              BGN
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.9558
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              TRY
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              6.3513
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              CNY
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              7.7115
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              NOK
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              10.0893
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              NZD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.7426
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              ZAR
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              16.3121
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              USD
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1.1034
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              MXN
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              21.1383
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              ILS
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              3.8533
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              GBP
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              0.86158
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              KRW
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              1276.66
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-body"
+              scope="row"
+            >
+              MYR
+            </th>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            >
+              4.5609
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+`;
