@@ -20,7 +20,6 @@ const HeroComponent = ({
   onFetchWithError
 }) => {
   const classes = useStyles()
-  console.log('here2')
   return (
     <div className={classes.heroContent}>
       <Container maxWidth='sm'>
